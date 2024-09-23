@@ -1,0 +1,14 @@
+body{
+background-color:purple;
+color: antiquewhite;
+padding: 20px;
+font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    background-color: plum;
+    color: beige;
+    padding: inherit;
+}
+.zero{
+    color: cyan;
+}

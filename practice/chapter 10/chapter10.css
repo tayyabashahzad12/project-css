@@ -1,16 +1,37 @@
-* {
-    font-family: Arial, Verdana, sans-serif;}
-    h1 {
-    font-family: "Courier New", monospace;}
-    i {
-    color: green;}
-    i {
-    color: rgb(255, 0, 0);}
-    b {
-    color:black;}
-    p b {
-    color: blue !important;}
-    p b {
-    color: rgb(130, 186, 238);}
-    
+body{
+    font-family: Arial,;
+}
+h1{
+    color: aqua;
+}
+h2{
+    color: aquamarine;
+}
+p{
+    color: brown;
+}
+.one{
+    color:whitesmoke;
+    border:2px black;
+}
+
+.bordered{
+border: 2px solid black;
+background-color: gray;
+}
+.two{
+     color: black;
+}
+.three{
+    color: red;
+}
+.four{
+    color:blue;
+}
+.five{
+    border: 1px solid black;
+    background-color: wheat;
+    padding: 10px;
+}
+
 

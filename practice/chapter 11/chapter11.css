@@ -1,0 +1,31 @@
+
+h1{
+    color: darkcyan;
+}
+h2{
+    color: palevioletred;
+}
+.four{
+    border: 2px solid black;
+    background-color: gray;
+}
+.one{
+    color: white; 
+    background-color: darkcyan;
+    padding: 20px;
+}
+.two{
+    color: white;
+    background-color: palevioletred;
+    padding: 20px;
+}
+.three{
+    background-color: white;
+    padding: 20px;}
+.five{
+    background-color: plum;
+    
+}
+    
+
+

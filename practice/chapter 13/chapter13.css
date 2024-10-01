@@ -1,0 +1,150 @@
+.one{
+    height: 300px;
+    width: 300px;
+    background-color:  #bbbbaa;
+}
+.two{
+    height: 75%;
+    width: 75%;
+    background-color: palevioletred;
+}
+.three{
+    min-width: 600px;
+    max-width: 500px;
+    margin: 1px;
+    padding: 8px;
+    text-align: left;
+}
+.four{
+    min-width: 700px;
+    max-width: 600px;
+    margin: 2px;
+    padding: 10px;
+    text-align: left;
+}
+.five{
+    min-width:800px ;
+    max-width: 900px;
+    margin:3px ;
+    padding: 11px;
+    text-align: left;
+}
+h2{
+    
+    font-size: 90%;
+    line-height: 1.3em;
+    color: #0088dd;
+    border-bottom: 1px solid #0088dd;
+}
+.six{
+    width: 400px;
+font-size: 90%;
+line-height: 1.2em;
+min-height: 20px;
+max-height: 20px;
+}
+.seven{
+    overflow: hidden;
+    
+}
+.eight{
+    overflow: scroll;
+    height:150px;
+    width: 130px;
+    background-color: gray;
+}
+.nine{
+    font-size: large;
+}
+.ten{
+    border: 2px solid black;
+}
+.eleven{
+    border: 2px solid black;
+    border-width: thick;
+}
+.twelve{
+    border:  soild black;
+    border-width: 1px 4px 12px 4px;
+}
+.thir{
+    border-style: solid;
+}
+.fourt {
+    border-style: dotted;
+}
+.fif {
+    border-style: dashed;
+}
+.sixt{
+    border-style: double;
+}
+.sevent {
+    border-style: groove;
+}
+.eighte {
+    border-style: ridge;
+}
+.nineteen {
+    border-style: inset;
+}
+.twenty {
+    border-style: outset;
+}
+.twenty1{
+    border: 3px solid;
+    border-color: #0088dd;
+    width: 200px;
+}
+.twenty2{
+    border: 3px solid;
+    border-color: #bbbbaa #111111 #ee3e80 #0088dd;
+    width: 200px;
+}
+.twenty3{
+    border: 3px solid;
+        width: 250px;
+        border: 3px dotted #0088dd;
+}
+.twenty4{
+        width: 275px;
+        border: 2px solid #0088dd;
+
+}
+.twenty5{
+    padding: 10px;
+    width: 275px;
+    border: 2px solid #0088dd;
+}
+.twenty6{
+    width: 200px;
+border: 2px solid #0088dd;
+padding: 10px;
+}
+.twenty7{
+    width: 200px;
+border: 2px solid #0088dd;
+padding: 10px;
+margin: 50px;}
+.twenty8{
+    width: 300px;
+padding: 50px;
+border: 20px solid #0088dd;}
+.twenty9{
+    width: 300px;
+padding: 50px;
+border: 20px solid #0088dd;
+margin: 10px auto 10px auto;
+text-align: left;
+}
+li{
+    display: inline;
+    margin-right: 10px;
+
+}
+.thirty1{
+    display: none;
+}
+.thirty2{
+    visibility: hidden;
+}

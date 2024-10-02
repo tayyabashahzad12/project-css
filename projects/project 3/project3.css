@@ -1,0 +1,54 @@
+div{
+    border: 5px solid black;
+    border-width: 3px;
+    height: 550px;
+    box-shadow: -2px -2px gray;
+}
+h1{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 0px;
+    letter-spacing: 3px;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    letter-spacing: 2px;
+    margin: 0px;
+
+}
+h4{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    letter-spacing: 0.5px;
+    margin: 0px;
+}
+.one{
+    width:500px;
+    border-top: 3px solid black;
+    border-bottom: 1px solid black;
+    padding: 3px;
+  text-align: center;
+  margin:0px auto 0px auto ;
+
+}
+.two{
+    display: inline;
+    color: red;
+    margin: 10px;
+    font-family:'Courier New', Courier, monospace;
+}
+.three{
+    display: inline;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.four{
+    width: 250px;
+    height: 200px;
+    margin: 0px;
+}
+.five{
+    letter-spacing: 2px;
+    font-family: 'Courier New', Courier, monospace;
+}

@@ -1,0 +1,87 @@
+ol{
+    list-style-type:lower-roman;
+    margin: 10px;
+    width: 150px;
+    
+
+}
+.one{
+     margin:8px;
+     width: 150px;
+    list-style-image: url("../../pictures.css/download (3).png");
+    
+
+}
+.two{
+    width: 250px;
+    margin: 10px;
+    list-style: outside;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.three{
+    width:250px;
+    margin: 10px;
+    list-style: inside;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.four{
+    width: 300px;
+    margin: 10px 0px 0px 0px;
+    list-style:inside circle ;
+}
+table{
+    width: 600px;
+}
+.five{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.2em;
+    padding: 7px 10px 10px 10px;
+    background-color:#efefef ;
+
+}
+.eight{
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 90%;
+    border-bottom: 2px solid #111;
+    border-top: 1px solid #999;
+    text-align: left;
+}
+.six{
+    background-color:  #c3e6e5;
+}
+.seven{
+    font-family:Arial, Helvetica, sans-serif;
+    color: #111111;
+}
+.ten{
+    padding: 80px;
+    border: 1px solid #0088dd;
+    
+}
+.eleven{
+    empty-cells: show;
+    border:1px solid #0088dd ;
+}
+.twelve{
+    empty-cells: hide;
+}
+.twelve2{
+    background-color: #0088dd;
+    padding: 80px;
+    border: 3px solid black;
+}
+.twelve1{
+   border-spacing: 50px;
+}
+.twelve3{
+    border-collapse: collapse;
+}
+.twelve4{
+    width: 300px;
+    height: 30px;
+    background-color: paleturquoise;
+    background-image: url(//pictures.css/download\ \(4\).png);
+    
+}

@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 90%;
+    color: #666;
+    background-color: #f8f8f8;}
+    .one{
+        margin:8px;
+        width: 150px;
+       list-style-image: url("../../pictures.css/download.png");
+    }
+    table {
+        border-spacing:0px;}
+        .two{
+            color: #fff;
+            background-color: #90b4d6;
+            border-bottom: 2px solid #547ca0;
+            border-right: 1px solid #749abe;
+            border-top: 1px solid #90b4d6;
+            text-align: center;
+            text-shadow: -1px -1px 1px #666;
+            letter-spacing: 0.15em;
+        height: 30px;}
+        
+        .three{
+            padding: 5px 30px 5px 10px;
+            border-spacing: 0px;
+            font-size: 90%;
+            background-color:#e0e9f0;
+            border-top: 1px solid #f1f8fe;
+            border-bottom: 1px solid #cbd2d8;
+            border-right: 1px solid #cbd2d8;
+            height: 30px; 
+            text-shadow:  1px 1px 1px #fff;;
+            
+    }
+    .four{
+        width: 600px;
+    }
+        .five{
+            overflow: hidden;
+            overflow: scroll;
+            height:50px;
+            width: 150px;
+            background-color:white;
+            font-size: large;
+        }
+        .six{
+            font-style:italic;
+           color:#666666;
+           
+        }
+        .seven{
+            width: 120px;
+ border: 1px solid #d6d6d6;
+ padding: 2px;
+ outline: none;
+        }
+.eight{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.nine{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.ten{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.eleven{
+    margin-left: 250px;
+    height: 40px;
+    background-color: #dcdcdc;
+    width: 100px;
+
+}
+button:hover{
+    background-color: cadetblue;
+}
+.thirteen{
+    width: 200px;
+}

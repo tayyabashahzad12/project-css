@@ -1,23 +1,23 @@
-div{
+.div{
     border: 5px solid black;
     border-width: 3px;
     height: 550px;
     box-shadow: -2px -2px gray;
 }
-h1{
+.h1{
     font-family:'Courier New', Courier, monospace;
     text-align: center;
     margin: 0px;
     letter-spacing: 3px;
 }
-h3{
+.h3{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     letter-spacing: 2px;
     margin: 0px;
 
 }
-h4{
+.h4{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     letter-spacing: 0.5px;

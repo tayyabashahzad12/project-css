@@ -1,0 +1,62 @@
+
+.half-color {
+    height: 200px;
+    background: linear-gradient(to bottom, red 50%, transparent 40%);
+    width: 1350PX;
+    text-align: center ;
+    
+
+}
+h1{
+    width: 300px;
+    border: 1px solid black;
+    background-color: black;
+    color: #efefef;
+    padding:15px;
+    position:absolute;
+    float: left;
+    left: 500px;
+    bottom:450px;
+}
+.div{
+    position:absolute;
+    left: 350px;
+}
+.one{
+    display: inline;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid yellow;
+    background-color: yellow;
+    padding: 30px;
+    font-family:'Courier New', Courier, monospace;
+
+}
+.two{
+    display: inline;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid orangered;
+    background-color: orangered;
+    padding: 30px;
+    
+}
+.three{
+    display: inline;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid red;
+    background-color: red;
+    padding: 30px;
+    
+}
+.four{
+    display: inline;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid rgb(245, 30, 102);
+    background-color:rgb(245, 30, 102);
+    padding: 30px;
+}
+
+

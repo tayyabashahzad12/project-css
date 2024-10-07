@@ -1,39 +1,42 @@
 
 .half-color {
     height: 200px;
-    background: linear-gradient(to bottom, red 50%, transparent 40%);
+    background:linear-gradient(to bottom, red 50%, transparent 40%);
     width: 1350PX;
     text-align: center ;
     
 
 }
-h1{
+.h1{
     width: 300px;
     border: 1px solid black;
     background-color: black;
-    color: #efefef;
+    color: orange;
     padding:15px;
-    position:absolute;
+    /* position:absolute; */
     float: left;
     left: 500px;
-    bottom:450px;
+    bottom:480px;
 }
-.div{
+/* .div{
     position:absolute;
     left: 350px;
-}
+    
+} */
 .one{
-    display: inline;
+    /* display: inline; */
     margin: 10px;
-    font-family: 'Courier New', Courier, monospace;
-    border: 1px solid yellow;
+    /* font-family: 'Courier New', Courier, monospace; */
+    /* border: 1px solid yellow; */
     background-color: yellow;
     padding: 30px;
-    font-family:'Courier New', Courier, monospace;
+    /* font-family:'Courier New', Courier, monospace; */
+    /* list-style-image:url("../../pictures.css/download\ \(10\).jpg"); */
+    width: 500px;
 
 }
 .two{
-    display: inline;
+    /* display: inline; */
     margin: 10px;
     font-family: 'Courier New', Courier, monospace;
     border: 1px solid orangered;
@@ -42,7 +45,7 @@ h1{
     
 }
 .three{
-    display: inline;
+    /* display: inline; */
     margin: 10px;
     font-family: 'Courier New', Courier, monospace;
     border: 1px solid red;
@@ -51,7 +54,7 @@ h1{
     
 }
 .four{
-    display: inline;
+    /* display: inline; */
     margin: 10px;
     font-family: 'Courier New', Courier, monospace;
     border: 1px solid rgb(245, 30, 102);

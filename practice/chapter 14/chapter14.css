@@ -1,46 +1,53 @@
-ol{
-    list-style-type:lower-roman;
+ol {
+    list-style-type: lower-roman;
     margin: 10px;
     width: 150px;
-    
+
 
 }
-.one{
-     margin:8px;
-     width: 150px;
+
+.one {
+    margin: 8px;
+    width: 150px;
     list-style-image: url("../../pictures.css/download (3).png");
-    
+
 
 }
-.two{
+
+.two {
     width: 250px;
     margin: 10px;
     list-style: outside;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
-.three{
-    width:250px;
+
+.three {
+    width: 250px;
     margin: 10px;
     list-style: inside;
     font-family: Arial, Helvetica, sans-serif;
 
 }
-.four{
+
+.four {
     width: 300px;
     margin: 10px 0px 0px 0px;
-    list-style:inside circle ;
+    list-style: inside circle;
 }
-table{
+
+table {
     width: 600px;
 }
-.five{
+
+.five {
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 0.2em;
     padding: 7px 10px 10px 10px;
-    background-color:#efefef ;
+    background-color: #efefef;
 
 }
-.eight{
+
+.eight {
     text-transform: uppercase;
     letter-spacing: 0.1em;
     font-size: 90%;
@@ -48,39 +55,48 @@ table{
     border-top: 1px solid #999;
     text-align: left;
 }
-.six{
-    background-color:  #c3e6e5;
+
+.six {
+    background-color: #c3e6e5;
 }
-.seven{
-    font-family:Arial, Helvetica, sans-serif;
+
+.seven {
+    font-family: Arial, Helvetica, sans-serif;
     color: #111111;
 }
-.ten{
+
+.ten {
     padding: 80px;
     border: 1px solid #0088dd;
-    
+
 }
-.eleven{
+
+.eleven {
     empty-cells: show;
-    border:1px solid #0088dd ;
+    border: 1px solid #0088dd;
 }
-.twelve{
+
+.twelve {
     empty-cells: hide;
 }
-.twelve2{
+
+.twelve2 {
     background-color: #0088dd;
     padding: 80px;
     border: 3px solid black;
     width: 50px;
 }
-.twelve1{
-   border-spacing: 50px;
+
+.twelve1 {
+    border-spacing: 50px;
 }
-.twelve3{
+
+.twelve3 {
     border-collapse: collapse;
     width: 50px;
 }
-.twelve4{
+
+.twelve4 {
     font-size: 120%;
     color: #5a5854;
     background-color: #f2f2f2;
@@ -89,52 +105,60 @@ table{
     padding: 5px 5px 5px 30px;
     background-repeat: no-repeat;
     display: block;
-    margin-bottom: 10px;}
-    input:focus {
-        background-color: #ffffff;
-        border: 1px solid #b1e1e4;}
-        input#email{
-            background-image: url("../../pictures.css/download (4).png");
-        }
-        button{
-            background-color: powderblue;
-            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            font-size: 20px;
-            height: 50px;
-            width: 90px;
-            text-shadow: 0px 1px 1px #5a5854 ;
-        
-            }
-            button:hover{
-                background-color:cornflowerblue;
-            }
-            fieldset{
-                width: 400px;
-            border: 1px solid #dcdcdc;
-            border-radius: 10px;
-            padding: 20px;
-            text-transform: uppercase;
-            }
-            legend {
-                background-color: #efefef;
-                border: 1px solid #dcdcdc;
-                border-radius: 10px;
-                padding: 10px 20px;
-                text-align: left;
-                text-transform: uppercase;}
-                button{
-                    border-radius:8px ;
-                    width: 100px;
-                    background-color: dodgerblue;
-                    text-align: center;
-                }
-                .twelve5{
-                    margin-left: 250px;
-                    height: 40px;
-                    background-color: #dcdcdc;
-                    border-radius: 30px;
-                
-                }
-            
-            
-            
+    margin-bottom: 10px;
+}
+
+input:focus {
+    background-color: #ffffff;
+    border: 1px solid #b1e1e4;
+}
+
+input#email {
+    background-image: url("../../pictures.css/download (4).png");
+}
+
+button {
+    background-color: powderblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    height: 50px;
+    width: 90px;
+    text-shadow: 0px 1px 1px #5a5854;
+
+}
+
+button:hover {
+    background-color: cornflowerblue;
+}
+
+fieldset {
+    width: 400px;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+legend {
+    background-color: #efefef;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+button {
+    border-radius: 8px;
+    width: 100px;
+    background-color: dodgerblue;
+    text-align: center;
+}
+
+.twelve5 {
+    margin-left: 250px;
+    height: 40px;
+    background-color: #dcdcdc;
+    border-radius: 30px;
+
+}

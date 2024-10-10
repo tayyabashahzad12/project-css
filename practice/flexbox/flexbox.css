@@ -1,0 +1,61 @@
+body{
+    border: 1px solid black;
+    padding: 2px;
+}
+.google{
+    width: 80px;
+}
+.nav{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+.one{
+    display: flex;
+    list-style-type: none;
+    width: 400px;
+    
+}
+
+.two{
+    text-decoration: none;
+}
+.three{
+    padding: 15px 25px 15px 25px;
+    margin: 10px;
+    border: 2px solid rgb(142, 233, 142);
+}
+.four{
+    padding: 15px 25px 15px 25px;
+    margin: 10px;
+    border: 2px solid rgb(142, 233, 142);
+}
+.five{
+    padding: 15px 25px 15px 25px;
+    margin: 10px;
+    border: 2px solid rgb(142, 233, 142);
+}
+
+
+.footer{
+    display: flex;
+    border: 1px solid black;
+    padding: 5px;
+    justify-content: space-between;
+}
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    border: 3px solid green;
+    padding: 20px;
+}
+.six{
+    width: 150px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.image{
+    width: 100%;
+}

@@ -1,0 +1,94 @@
+body{
+margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fafafa;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   
+}
+.one{
+    margin-right: 50px;
+}
+.img{
+    width: 400px;
+    border-radius: 30px;
+}
+.two{
+    background-color: white;
+    padding: 25px;
+    width: 300px;
+    height: 400px;
+    border: 1px solid #dbdbdb;
+    border-radius: 8px;
+    text-align: center;
+}
+.h1{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+.input{
+    width: 90%;
+    padding: 10px;
+    margin: 10px ;
+    border: 1px solid #dbdbdb;
+    border-radius: 5px;
+}
+.button{
+    width: 100%;
+    padding: 10px;
+    background-color: #3897f0;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.or{
+    margin: 20px ;
+    font-weight: bold;
+    color: #8e8e8e;
+}
+.login{
+    width: 100%;
+    padding: 10px;
+    color:#385185 ;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.a{
+    color: #00376b;
+    text-decoration: none;
+}
+.p{
+    width: 350px;
+    height: 50px;
+    font-size: 14px;
+    border: 1px solid #dbdbdb;
+    margin-top:20px;
+    background-color:white;
+    text-align: center;
+    line-height: 50px;  
+}
+.img1{
+    margin-right: 10px;
+}
+.four{
+    margin-left: 130px;
+    font-size: 15px;
+}
+.five{
+    float: left;
+    background-color: black;
+    color: white;
+    height: 50px;
+    font-size: 12px;
+    width: 110px;
+}

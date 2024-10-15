@@ -121,5 +121,102 @@ border: 1px solid black;}
     top: 67%; 
     left: 13%; 
     color: white;
-        font-family:Arial, Helvetica, sans-serif;}
-        
+    font-family:Arial, Helvetica, sans-serif;}
+    .div2{
+        bottom: 55px;
+        position: absolute;
+        left: 13%;
+    }
+    .whatsapp-dawnload{
+            background-color:#25d366;
+            color: black;
+            padding: 10px 20px;
+            border-radius: 50px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+            width: 130px;
+            height: 45px;
+        border: 1px solid black;
+    }
+    .whatsapp-dawnload:hover{
+        background-color: black;
+        color: white;
+    }
+    .p2{
+        font-size:70%;
+        margin-left: 77%;
+    }
+    .img9{
+        margin-top: 4%;
+        margin-left: 4%;
+    }
+    .p3{
+        margin-top: 4%;
+        margin-left:20%;
+        font-size: 250%;
+    }
+    .p4{ 
+        margin-left: 39%;
+        font-size: 250%;
+    }
+   .img10{
+    margin-left:4% ;
+    margin-top: 4%;
+   } 
+   .container{
+    display: flex;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+   }
+   .text-content {
+    flex: 1;
+    padding-right: 40px;
+}
+.h2{
+        font-size: 300%;
+        margin-bottom: 20px;
+        margin-top: 40%;
+        margin-left: 20%;
+}
+.p5{
+            line-height: 1.6;
+            color: #555;
+            margin-left: 20%;
+}
+.a1{
+    display: inline-block;
+    color:rgb(80, 79, 79);
+    text-decoration: underline 2px solid #25d366;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 20%;
+    font-weight: 100;
+
+}
+.a1:hover{
+    color: #25d366;
+}
+.image-content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+    margin-top: 10%;
+}
+.div4{
+    display: flex;
+}
+.div3{
+    float: left;
+    background-color:#111b21;
+    height: 800px;
+    width: 99.8%;
+    padding: 1%;
+    margin:0px;
+}
+
+

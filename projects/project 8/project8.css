@@ -3,43 +3,58 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
+
+body {
     font-family: Arial, Helvetica, sans-serif;
-    color: #333;
+   background-color: #FCF5EB;
 }
-.nav{
- display: flex;
- position:fixed;
+
+.nav {
+    display: flex;
+    position: fixed;
     justify-content: space-between;
     align-items: center;
     padding: 15px 30px;
-    background-color:rgba(255, 255, 255, 0.5);
-width: 1350px;}
-.div{
-    display: flex;
-    align-items: center;}
-.img{
-    width: 40px;
-    margin-right: 0px;}
-.span{
-    color: #25d366;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 20px;}
-.ul{
-    display: flex;
-    list-style: none;}
-.li{
-    margin:0px 15px;
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 100%;
 }
-.a{
+
+.div {
+    display: flex;
+    align-items: center;
+}
+
+.img {
+    width: 40px;
+    margin-right: 0px;
+}
+
+.span {
+    color: #25d366;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.ul {
+    display: flex;
+    list-style: none;
+}
+
+.li {
+    margin: 0px 15px;
+}
+
+.a {
     text-decoration: none;
-    color: #333;}
+    color: #333;
+}
 .animated {
     position: relative;
     display: inline-block;
     font-size: 16px;
     color: #333;
-    padding-bottom: 5px; }
+    padding-bottom: 5px;
+}
 .animated::after {
     content: "";
     position: absolute;
@@ -47,12 +62,14 @@ width: 1350px;}
     bottom: 0;
     height: 2px;
     width: 0;
-    background-color:#25d366;
-    transition: width 0.5s ease-in-out;}
+    background-color: #25d366;
+    transition: width 0.5s ease-in-out;
+}
 .animated:hover::after {
-    width: 100%;}
+    width: 100%;
+}
 .download-btn {
-    background-color:#25d366;
+    background-color: #25d366;
     color: black;
     padding: 10px 20px;
     border-radius: 50px;
@@ -61,143 +78,145 @@ width: 1350px;}
     transition: background-color 0.3s ease;
     width: 150px;
     height: 45px;
-border: 1px solid black;}
+    border: 1px solid black;
+}
 .download-btn:hover {
     background-color: black;
-    color: white;}
- .img1{
+    color: white;
+}
+.img1 {
     float: left;
     background-image: url("../../pictures.css/316546300_547692113846445_7299710494491288098_n.png");
-    margin-top:6%;
+    margin-top: 6%;
     height: 700px;
     margin-left: 2%;
     margin-right: 2%;
     border-radius: 3%;
- }
- .img2{
-     float: left;
-     margin-left: 59%;
-     margin-top:6%;
- }
- .img3{
-    position:absolute;
-    top:28% ;
+}
+.img2 {
+    float: left;
+    margin-left: 59%;
+    margin-top: 6%;
+}
+.img3 {
+    position: absolute;
+    top: 28%;
     left: 58.5%;
     border-radius: 50%;
- }
- .img4{
-   float: left;
-   margin-left: 59%;
- }
- .img5{
+}
+.img4 {
+    float: left;
+    margin-left: 59%;
+}
+.img5 {
     float: left;
     margin-left: 59%;
     margin-top: 2%;
- }
- .img6{
+}
+.img6 {
     float: left;
     margin-left: 59%;
     margin-top: 0.5%;
- }
- .img7{
-    position:absolute;
-    top:93% ;
+}
+.img7 {
+    position: absolute;
+    top: 93%;
     left: 58.5%;
- }
- .img8{
-   float: left;
-    margin-left:60%;
-    margin-top: 2%;
- }
- .h1{
+}
+.img8 {
     float: left;
-    margin-top:-38%;
-   margin-left:12%;
+    margin-left: 60%;
+    margin-top: 2%;
+}
+.h1 {
+    float: left;
+    margin-top: -38%;
+    margin-left: 12%;
     font-size: 450%;
     color: white;
-    font-family:Arial, Helvetica, sans-serif;
-    font-weight: 410;}
-    .text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 410;
+}
+.text {
     float: left;
-    margin-top: -25%; 
-    margin-left:12% ;
+    margin-top: -25%;
+    margin-left: 12%;
     color: white;
-    font-family:Arial, Helvetica, sans-serif;}
-    .div2{
-        float: left;
-        margin-top:-15%;
-        margin-left: 12%;
-    }
-    .whatsapp-dawnload{
-            background-color:#25d366;
-            color: black;
-            padding: 10px 20px;
-            border-radius: 50px;
-            cursor: pointer;
-            font-size: 16px;
-            transition: background-color 0.3s ease;
-            width: 130px;
-            height: 45px;
-        border: 1px solid black;
-    }
-    .whatsapp-dawnload:hover{
-        background-color: black;
-        color: white;
-    }
-    .p2{
-        font-size:73%;
-        margin-left: 76%;
-    }
-    .img9{
-        margin-top: 4%;
-        margin-left: 4%;
-    }
-    .p3{
-        margin-top: 4%;
-        margin-left:20%;
-        font-size: 250%;
-    }
-    .p4{ 
-        margin-left: 39%;
-        font-size: 250%;
-    }
-   .img10{
-    margin-left:4% ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div2 {
+    float: left;
+    margin-top: -15%;
+    margin-left: 12%;
+}
+.whatsapp-dawnload {
+    background-color: #25d366;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    width: 130px;
+    height: 45px;
+    border: 1px solid black;
+}
+.whatsapp-dawnload:hover {
+    background-color: black;
+    color: white;
+}
+.p2 {
+    font-size: 73%;
+    margin-left: 76%;
+}
+.img9 {
     margin-top: 4%;
-   } 
-   .container{
+    margin-left: 4%;
+}
+.p3 {
+    margin-top: 4%;
+    margin-left: 20%;
+    font-size: 250%;
+}
+.p4 {
+    margin-left: 39%;
+    font-size: 250%;
+}
+.img10 {
+    margin-left: 4%;
+    margin-top: 4%;
+}
+.container {
     display: flex;
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: white;
-   }
-   .text-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.text-content {
     flex: 1;
     padding-right: 40px;
 }
-.h2{
-        font-size: 300%;
-        margin-bottom: 20px;
-        margin-top: 40%;
-        margin-left: 20%;
+.h2 {
+    font-size: 300%;
+    margin-bottom: 20px;
+    margin-top: 40%;
+    margin-left: 20%;
 }
-.p5{
-            line-height: 1.6;
-            color: #555;
-            margin-left: 20%;
+.p5 {
+    line-height: 1.6;
+    color: #555;
+    margin-left: 20%;
 }
-.a1{
+.a1 {
     display: inline-block;
-    color:rgb(80, 79, 79);
+    color: rgb(80, 79, 79);
     text-decoration: underline 2px solid #25d366;
     font-weight: bold;
     margin-top: 10px;
     margin-left: 20%;
     font-weight: 100;
-
 }
-.a1:hover{
+.a1:hover {
     color: #25d366;
 }
 .image-content {
@@ -208,21 +227,55 @@ border: 1px solid black;}
     margin-right: 20px;
     margin-top: 10%;
 }
-.div3{
-    float: left;
-    background-color:#111b21;
-    height: 690px;
+.div3 {
+   float: left;
+    background-color: #111b21;
+    height: 720px;
     width: 99.8%;
     padding: 1%;
-    margin:0px;
+    margin: 0px;
 }
-.img12{
+.img12 {
+   float: left;
     margin-left: 14%;
     margin-top: 5%;
-    width:35%;
+    width: 35%;
 }
-.h3{
+.h3 {
+    display: flex;
+   padding-top: 230px;
+   padding-right:340px;
+    justify-content: center;
+   align-items: center;
+   font-size: 55px;
+   color: white;
+   font-weight: 100;
+}
+.h4{
+    display: flex;
+    padding-left: 90px;
+    font-size:50px;
+    color: #25d366;
+    font-weight: 100;
+}
+.p6{
+    display: flex;
+    padding-left: 90px;
+    margin: 12px;
+    font-size:17px;
+    color: white;
+}
+.a2{
+    display:flex;
+    color:white;
+    text-decoration: underline 2px solid #25d366;
+    font-weight: bold;
+    margin-top: 10px;
     margin-left: 20%;
+    font-weight: 100;
+    padding-left:90px;
+    margin: 30px;
 }
-
-
+.a2:hover {
+    color: #25d366;
+}

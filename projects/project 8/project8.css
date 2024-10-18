@@ -87,14 +87,13 @@ body {
 }
 .img1 {
     float: left;
-    background-image: url("../../pictures.css/316546300_547692113846445_7299710494491288098_n.png");
+    background-image: url("../../pictures.css/fecfea15-c369-4cf6-9e3a-bbcd2e836026.jpg");
     background-repeat: no-repeat;
     margin-top: 6%;
     height: 700px;
-    margin-left: 1%;
     margin-right: 2%;
     width: 98%;
-    border-radius: 4%;
+    border-radius:4%;
 }
 .img2 {
     float: left;
@@ -173,7 +172,7 @@ body {
     background-color: black;
     color: white;
 }
-.p2 {
+/* .p2 {
     font-size: 73%;
     margin-left: 76%;
 }
@@ -330,4 +329,4 @@ body {
  .img13{
    width:350px;
    margin-top:100px;
- }
+ } */

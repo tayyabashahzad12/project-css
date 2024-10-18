@@ -252,9 +252,7 @@ body {
 .h3 {
     display: flex;
    padding-top: 230px;
-   padding-right:340px;
-    justify-content: center;
-   align-items: center;
+   padding-left: 90px;
    font-size: 55px;
    color: white;
    font-weight: 100;
@@ -278,8 +276,6 @@ body {
     color:white;
     text-decoration: underline 2px solid #25d366;
     font-weight: bold;
-    margin-top: 10px;
-    margin-left: 20%;
     font-weight: 100;
     padding-left:90px;
     margin: 30px;
@@ -287,3 +283,51 @@ body {
 .a2:hover {
     color: #25d366;
 }
+.div6{
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.div7{
+    margin-top:220px;
+}
+.h5{
+    font-size: 50px;
+    margin-bottom: 21px;
+    margin-left:90px;
+    font-weight: 100;
+    font-family:"Helvetica Neue", "Helvetica Neue", Helvetica, Arial, sans ;
+    
+}
+.p7{
+    margin-bottom: 17px;
+    margin-left:90px;
+    font-size: 1em;
+    color: #555;
+}
+.a3{
+    display:flex;
+    color:black;
+    text-decoration: underline 2px solid #25d366;
+    font-weight: bold;
+    font-weight: 100;
+    padding-left:90px;
+   
+}
+.a3:hover {
+    color: #25d366;
+}
+ .div8{
+    display:flex;
+    background-image: url("../../pictures.css/318716844_644367477472796_6799212725643495984_n.png");
+    height:590px;
+    width:285px;
+    background-repeat: no-repeat;
+    margin-top:60px;
+    margin-left:180px;
+ }
+ .img13{
+   width:350px;
+   margin-top:100px;
+ }

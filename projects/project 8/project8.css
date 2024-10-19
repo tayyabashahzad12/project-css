@@ -420,9 +420,7 @@ footer {
 }
 .container1 {
     display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-    margin:40px;
+    margin:80px;
 }
 
 .logo {
@@ -430,32 +428,63 @@ footer {
     display: flex;
     align-items: center;
 }
-
 .img16 {
-    width: 30px;
-    margin-right: 10px;
+    width: 120px;
+    margin-left:120px;
+    margin-bottom:120px;
 }
 
 .column {
     flex: 1;
-   margin-left: -50px;
 }
 
 .h8 {
     margin-bottom:25px;
+    margin-left:120px;
+}
+.h9{
+    margin-bottom:25px;
+    margin-left:50px;
+}
+.h10{
+    margin-bottom:25px;
+    margin-left:-20px;
+}
+.h11{
+    margin-bottom:25px;
+    margin-left:-100px;
 }
 
 .ul1{
-    color: white;
-    text-decoration: none;
-    font-size: 14px;
     list-style: none;
 }
 .li1{
     color: white;
     text-decoration: none;
     font-size: 14px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
+    margin-left:120px;
+}
+.li2{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    margin-bottom: 15px;
+   margin-left:50px;
+}
+.li3{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    margin-bottom: 15px;
+   margin-left:-20px;
+}
+.li4{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    margin-bottom: 15px;
+   margin-left:-100px;
 }
 .a6{
     color: white;
@@ -467,17 +496,12 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 20px;
+    margin-top:60px;
     border-top: 1px solid #333;
-    padding-top: 10px;
-}
-
-.p10 {
-    margin: 0;
-    font-size: 12px;
+    padding-top: 40px;
 }
 .p11{
-  margin-left:250px;
+  margin-left:200px;
   font-size:10px;
 }
 .a6{
@@ -486,12 +510,60 @@ footer {
 .a7{
     color: white;
     font-size: 10px;
-
+    margin-right:90px;
+    text-decoration: none;
 }
 .a8{
     color: white;
     font-size: 10px;
-  margin-bottom: 20px;
-  margin-right:300px;
+  margin-right:750px;
+  text-decoration: none;
 }
-
+.download-btn1 {
+    background-color: #25d366;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    width: 130px;
+    height: 40px;
+    border: 1px solid black;
+   margin-left: -110px;
+   margin-top:90px;
+}
+.download-btn1:hover {
+    background-color: black;
+    color: white;
+}
+.span2{
+    background-color: black;
+    padding:10px 20px;
+    border-radius:50px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    border: 1px solid white;
+    font-size:20px;
+    color: white;
+    text-decoration: none;
+    margin-left:-720px;
+}
+.span2:hover{
+    background-color: #25d366;
+    color: #111b21;
+}
+.span3{
+   margin-left: 10px;
+}
+.span4{
+    margin-left:15px;
+}
+.drop{
+    background-color: #111b21;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 50px;
+    margin-left: 50px;
+   height: 50px;
+}
